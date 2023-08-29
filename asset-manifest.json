@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pixi-test/static/css/main.8ce584a8.css",
+    "main.js": "/pixi-test/static/js/main.4613e266.js",
+    "static/js/787.71568857.chunk.js": "/pixi-test/static/js/787.71568857.chunk.js",
+    "index.html": "/pixi-test/index.html",
+    "main.8ce584a8.css.map": "/pixi-test/static/css/main.8ce584a8.css.map",
+    "main.4613e266.js.map": "/pixi-test/static/js/main.4613e266.js.map",
+    "787.71568857.chunk.js.map": "/pixi-test/static/js/787.71568857.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ce584a8.css",
+    "static/js/main.4613e266.js"
+  ]
+}
